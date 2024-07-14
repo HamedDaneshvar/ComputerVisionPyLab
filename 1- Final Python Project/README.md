@@ -1,0 +1,2 @@
+### I chose the IMDB Telegram Bot project among other projects.
+### You can be redirected to the repository for this project by clicking on the [link](https://github.com/HamedDaneshvar/IMDBTelegramBot).
